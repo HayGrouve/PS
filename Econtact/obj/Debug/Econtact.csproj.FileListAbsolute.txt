@@ -1,0 +1,10 @@
+C:\Users\cekov\Desktop\Econtact\bin\Debug\Econtact.exe.config
+C:\Users\cekov\Desktop\Econtact\bin\Debug\Econtact.exe
+C:\Users\cekov\Desktop\Econtact\bin\Debug\Econtact.pdb
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.csprojAssemblyReference.cache
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.Econtact.resources
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.exe
+C:\Users\cekov\Desktop\Econtact\obj\Debug\Econtact.pdb
